@@ -1,6 +1,0 @@
-next we need the scorp when it uses the S ability to make a whip like effect. 
-
-the gargoyle makes a noise like MAAAH!
-
-stop the tetris sound
-when pressing the S button we want to see the tail move forward
